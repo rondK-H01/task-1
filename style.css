@@ -275,43 +275,8 @@ main {
   background: conic-gradient(#303433 180deg,
       lightblue 0 235deg,
       orange 0 263deg,
-      white 0 360deg);
+      white 0 264deg);
   -webkit-mask: radial-gradient(farthest-side, #0000 calc(99% - 12px), #000 calc(100% - 42px));
-  mask: radial-gradient(farthest-side, #0000 calc(99% - 30px), #000 calc(100% - 42px));
-}
-
-.piechart-2:before {
-  content: "";
-  position: absolute;
-  border-radius: 50%;
-  inset: 0;
-  background: conic-gradient(#303433 180deg,
-      red 0 235deg,
-      orange 0 263deg,
-      white 0 360deg);
-  -webkit-mask: radial-gradient(farthest-side, #0000 calc(99% - 12px), #000 calc(100% - 42px));
-  mask: radial-gradient(farthest-side, #0000 calc(99% - 30px), #000 calc(100% - 42px));
-}
-
-.piechart-3 {
-  display: inline-grid;
-  place-content: center;
-  position: absolute;
-  inset: 0;
-  width: 10rem;
-  aspect-ratio: 1;
-  margin: 5px;
-  font-size: 25px;
-}
-
-.piechart-3:before {
-  content: "";
-  position: absolute;
-  border-radius: 50%;
-  inset: 0;
-  background: conic-gradient(var(--pill-html) 0 120deg, white 0);
-  -webkit-mask: radial-gradient(farthest-side, #0000 calc(99% - 12px), #000 calc(100% - 42px));
-
   mask: radial-gradient(farthest-side, #0000 calc(99% - 30px), #000 calc(100% - 42px));
 }
 
