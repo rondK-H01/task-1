@@ -851,14 +851,18 @@ main {
 .chat-section {
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 .chat {
     height: 3rem;
+    width: 100%;
     display: flex;
     gap: 1rem;
     padding: 2rem 2rem 6rem 2rem;
+}
+
+.dasha {
+    margin-top: 2rem;
 }
 
 .chat img {
@@ -879,8 +883,36 @@ main {
 
 .spacer {
     width: 85%;
-    background-color: red;
-    height: 0.1rem;
+    background-color: #dedee0;
+    height: 0.09rem;
+    align-self: center;
+}
+
+.updated {
+    align-self: center;
+    color: #9ca6b2;
+    font-size: 0.9rem;
+}
+
+.blue-bubble-chat {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.blue-bubble {
+    position: absolute;
+    right: 0;
+    top: 0.8rem;
+    font-size: 0.85rem;
+    background-color: #6263fc;
+    color: #fff;
+    width: 1.2rem;
+    height: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
 }
 
 .pointer {

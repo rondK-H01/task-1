@@ -1,5 +1,7 @@
 # HTML/CSS Showcase
 
+## It is by no means responsive
+
 This project is based on [this design](https://dribbble.com/shots/23556347-Tutorial-Dashboard-design) by [Ghulam Rasool](https://www.linkedin.com/in/ghulam-rasool-22848644/)
 
 It's supposed to resemble the design, but won't be 100% accurate. Sizes are just eyeballed. None of the page is functional, it's just visual.
