@@ -1,6 +1,6 @@
 # HTML/CSS Showcase
 
-## It is by no means responsive
+## It is responsive down to around 960x900 pixels
 
 This project is based on [this design](https://dribbble.com/shots/23556347-Tutorial-Dashboard-design) by [Ghulam Rasool](https://www.linkedin.com/in/ghulam-rasool-22848644/)
 
