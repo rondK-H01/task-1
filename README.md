@@ -6,6 +6,8 @@ This project is based on [this design](https://dribbble.com/shots/23556347-Tutor
 
 It's supposed to resemble the design, but won't be 100% accurate. Sizes are just eyeballed. None of the page is functional, it's just visual.
 
+All the profile pictures are grabbed from: [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/)
+
 My attempt:
 ![](https://raw.githubusercontent.com/rondK-H01/task-1/main/assets/my-attempt.png)
 
